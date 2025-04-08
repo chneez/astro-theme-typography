@@ -7,8 +7,8 @@ export const defaultConfig: ThemeConfig = {
   site: {
     title: '满满社长',
     subtitle: 'manman',
-    author: 'Moeyua',
-    description: 'Rediscory the beauty of typography',
+    author: 'manman',
+    description: 'manman',
     website: 'https://blog.ximencun.site/',
     pageSize: 6,
     socialLinks: [
